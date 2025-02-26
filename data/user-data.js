@@ -1,0 +1,26 @@
+export const userData = {
+  githubUser: "QDuyPhan",
+  devUsername: "QDuyPhan",
+  github: "https://github.com/QDuyPhan",
+  facebook: "https://www.facebook.com/duy.phan.812527",
+  linkedIn: "https://www.linkedin.com/in/quang-duy-phan-b52469310/",
+  twitter: "https://twitter.com/QDuyPhan",
+  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
+  leetcode: "https://leetcode.com/said3812/",
+  resume:
+    "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
+  skills: [
+    "Kotlin",
+    "Flutter",
+    "Java",
+    "JavaScript",
+    "Spring boot",
+    "MySql",
+    "MongoDB",
+    "Postgres",
+    "Docker",
+    "AWS",
+  ],
+  timezone: "+6",
+  hireable: true,
+};
