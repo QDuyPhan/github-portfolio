@@ -2,7 +2,7 @@ export const userData = {
   githubUser: "QDuyPhan",
   devUsername: "QDuyPhan",
   github: "https://github.com/QDuyPhan",
-  facebook: "https://www.facebook.com/duy.phan.812527",
+  facebook: "https://www.facebook.com/duy.phan.812527/",
   linkedIn: "https://www.linkedin.com/in/quang-duy-phan-b52469310/",
   twitter: "https://twitter.com/QDuyPhan",
   stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
